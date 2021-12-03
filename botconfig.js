@@ -28,7 +28,7 @@ module.exports = {
   //Lavalink
   Lavalink: {
     id: "Main",
-    host: "https://lavalink-for-music-bot.herokuapp.com",
+    host: "http://lavalink-for-music-bot.herokuapp.com",
     port: 80, // The port that lavalink is listening to. This must be a number!
     pass: "youshallnotpass",
     secure: false, // Set this to true if the lavalink uses SSL or you're hosting lavalink on repl.it
